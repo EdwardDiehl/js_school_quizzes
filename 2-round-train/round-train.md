@@ -5,9 +5,9 @@ There is a train which consists of random number of carriages. The last carriage
 
 ### Train example
 ```
-        +------------------+     +------------------+     +------------------+     +------------------+
-...<--> | isLightOn: true  |<--> | isLightOn: false |<--> | isLightOn: false |<--> | isLightOn: true  |<-->...
-        +------------------+     +------------------+     +------------------+     +------------------+
+       +------------------+    +------------------+    +------------------+    +------------------+
+...<-->| isLightOn: true  |<-->| isLightOn: false |<-->| isLightOn: false |<-->| isLightOn: true  |<-->...
+       +------------------+    +------------------+    +------------------+    +------------------+
 ```
 ###
 
